@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me this github link github.com/KajalBormon
 
-Here is Full Stack Developer. Continuously learning and gather many skill in web development and regularly uploading completed project in github repository. Also interested in C,C++,Java etc programming language but mainly focused on web development.
+Here is Full Stack Developer. Continuously learning and gather many skill in web Programming and regularly uploading completed project in github repository. Also interested in C,C++,Java etc programming language but mainly focused on web development.
 
 <!---
 KajalBormon/KajalBormon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
