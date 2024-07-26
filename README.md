@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @KajalBormon
 - 👀 I’m interested in Web Programming
-- 🌱 I am adept in WordPress, Woocommerce, Wix, Squarespace, PHP, Javascript
+- 🌱 I am adept in WordPress, Woocommerce, Wix, Squarespace, PHP, Laravel, Ajax, Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me this facebook link facebook.com/kajalbormon123
+- 📫 You can reach me at this Facebook link facebook.com/kajalbormon123
 
-Here i am Web Design and Developer. Continuously learning and gathered many skill in web Programming and regularly uploading completed project in github repository. Also interested in C,C++,Java etc programming language but mainly focused on web desgin and development.
+Here I am a Web Design and Developer. I am continuously learning and gathering many web Programming skills and regularly uploading completed projects in the github repository. Also interested in C, C++, Java, etc programming languages but mainly focused on web design and development.
 
 <!---
 KajalBormon/KajalBormon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
