@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Kajal Bormon</h1>
 
-<p align="center">A passionate Full Stack Developer working with Laravel, Vue.js, and TypeScript</p>
+<p align="center">A Junior Software Engineer specialized in PHP, Laravel, Vue.js, and TypeScript</p>
 
 ---
 
@@ -29,23 +29,23 @@
 
 ### ✨ About Me
 
-- 🔭 I’m currently working on a custom Laravel + Vue ERP system  
-- 🌱 I’m deepening my expertise in TypeScript and Redis  
-- 💬 Ask me about full-stack architecture, REST APIs, and project automation  
-- 🛠 I use Bitbucket & Jira for efficient team-based project management  
-- 📫 Reach me at: your.email@example.com
+- 🛠 Junior Software Engineer working with PHP (Laravel) and Vue 3  
+- 🌱 Currently learning more about TypeScript and Redis  
+- 💬 I enjoy building scalable features and clean backend logic  
+- 📁 I use Bitbucket and Jira for task tracking and collaboration  
+- 📫 Reach me:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 
 ---
 
 ### 📎 Featured Projects
 
-- 🧾 **ERP System** – Laravel + Vue 3 with Inertia, advanced ledgers, permissions, and dynamic UI  
-- 📊 **Reporting Dashboard** – Vue + TypeScript + Pinia with real-time charting  
-- 🔒 **Auth System** – Role-based auth using Laravel Breeze with Vue frontend  
+- 🧾 **Hrbee HRM** – A full-featured HR management system built with Laravel, Vue 3, and Inertia.js. Includes payroll, attendance, leave management, and more.  
+- 🌊 **Muhuri** – A Laravel + Vue-based business system with role permissions, reports, and real-time activity tracking.  
+- 🛍 **Body By Pori (E-commerce)** – An elegant and responsive Laravel e-commerce platform with shopping cart, product filters, order management, and secure checkout.
 
 ---
 
-> 💡 “Code is not just what you write, it's what you maintain and scale.”  
+> 💡 "Every great developer was once a beginner who kept going."  
 
 ---
-
