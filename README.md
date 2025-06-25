@@ -40,6 +40,14 @@
 
 ---
 
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalBormone&layout=compact&theme=radical" />
+</p>
+
+---
+
 ### ✨ About Me
 
 - 🛠 Junior Software Engineer working with PHP (Laravel) and Vue 3  
@@ -59,4 +67,4 @@
 
 ---
 
-> 💡 "Every great developer was once a beginner who kept going."  
+> 💡 "Every great developer was once a beginner who kept going."
