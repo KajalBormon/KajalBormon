@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 Tech Stack
+### 🧰 Stack I Work With
 
 <p align="left">
   <!-- Core Languages -->
@@ -36,7 +36,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🔥 GitHub Heatmap
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KajalBormon&show_icons=true&theme=radical" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 Most Used Languages
+### 🚀 Languages in Action
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalBormon&layout=compact&theme=radical" />
@@ -63,7 +63,7 @@
 
 ---
 
-### 📎 Featured Projects
+### 💡 My Creations
 
 - 🧾 **Hrbee HRM** – A full-featured HR management system built with Laravel, Vue 3, and Inertia.js. Includes payroll, attendance, leave management, and more.  
 - 🌊 **Muhuri** – A Laravel + Vue-based business system with role permissions, reports, and real-time activity tracking.  
