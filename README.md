@@ -34,7 +34,7 @@
 - 💬 I enjoy building scalable features and clean backend logic  
 - 📁 I use Bitbucket and Jira for task tracking and collaboration  
 - 📫 Reach me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kajalbormon/)
 
 ---
 
