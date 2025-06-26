@@ -62,11 +62,9 @@ I’m Kajal Bormon, a passionate Full Stack Developer with a strong focus on **b
     <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   
-  <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=read-the-docs" alt="Resume"/>
+   <a href="https://github.com/your-username/your-repo/raw/main/assets/Kajal_Bormon_Resume.pdf" target="_blank" >
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat" alt="Download Resume" />
   </a>
-
-  [![Download Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat)](https://github.com/your-username/your-repo/raw/main/assets/Kajal_Bormon_Resume.pdf)
 
 </p>
 
