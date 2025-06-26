@@ -68,10 +68,12 @@
 ---
 
 ### 💡 My Creations
+🔹 HRBee HRM — Multi-Tenant HR Management System
+A SaaS-based HRM platform supporting multiple clients with tenant isolation and a modular architecture across 4 systems (hrm-tenant, hrm-central-admin, hrbee-hrm, hrbee).
 
-- 🧾 **Hrbee HRM** – A full-featured HR management system built with Laravel, Vue 3, and Inertia.js. Includes payroll, attendance, leave management, and more.  
-- 🌊 **Muhuri** – A Laravel + Vue-based business system with role permissions, reports, and real-time activity tracking.  
-- 🛍 **Body By Pori (E-commerce)** – An elegant and responsive Laravel e-commerce platform with shopping cart, product filters, order management, and secure checkout.
+✨ Key Features: Attendance tracking with reports, leave requests, payroll, calendar with public holidays, CI/CD pipeline, multilingual support (English & Bangla), charts, and role-based access control.
+
+🏗 Architecture: Built with a tenant-aware Laravel API backend and a Vite-powered Vue 3 frontend, optimized for scalability, modularity, and real-time data handling with Redis.
 
 ---
 
