@@ -68,11 +68,26 @@
 ---
 
 ### 💡 My Creations
-🔹 HRBee HRM — Multi-Tenant Saas Based HR System
-  <ul> 
-    <li>Key Features: Attendance tracking, leave requests, payroll, holiday calendar, RBAC, charts, multilingual (EN/BN), CI/CD.</li>
-    <li>Architecture: Modular multi-tenant system (hrm-tenant, hrm-central-admin, hrbee-hrm, hrbee) using Laravel, Vue 3 (Vite), Redis.</li>
-  <ul/>
----
+<hr style="border: none; border-top: 0.5px solid rgba(0,0,0,0.1); margin-top: 4px; margin-bottom: 20px;" />
+
+
+🔹 **HRBee HRM — Multi-Tenant SaaS Based HR System**  
+<ul> 
+  <li><strong>Key Features:</strong> Attendance tracking, leave requests, payroll, holiday calendar, RBAC, charts, multilingual (EN/BN), CI/CD.</li>
+  <li><strong>Architecture:</strong> Modular multi-tenant system (hrm-tenant, hrm-central-admin, hrbee-hrm, hrbee) using Laravel, Vue 3 (Vite), Redis.</li>
+</ul>
+
+🔹 **Muhuri — Multi-Tenant SaaS Sales & Accounting System**  
+<ul> 
+  <li><strong>Key Features:</strong> Sales/purchase tracking, ledger accounting, Bkash gateway, SMS alerts, RBAC, multilingual, Horizon monitoring.</li>
+  <li><strong>Architecture:</strong> Scalable suite (muhuri-tenant, muhuri-central-admin, muhuri-web) built with Laravel, Vue 3, Redis, and Horizon.</li>
+</ul>
+
+🔹 **Body By Pori — eCommerce Website (Magento Based)**  
+<ul> 
+  <li><strong>Key Features:</strong> Order placement, invoice printing, real-time delivery tracking, customizable emails, branded checkout experience.</li>
+  <li><strong>Architecture:</strong> Magento-powered platform customized with PHP, JavaScript, and MySQL, designed for smooth backend and customer flow.</li>
+</ul>
+
 
 > 💡 "Every great developer was once a beginner who kept going."
