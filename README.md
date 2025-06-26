@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px" alt="waving hand" />
+</p>
 <h1 align="center">👋 Hi, I'm Kajal Bormon</h1>
 
 <p align="center">A Junior Software Engineer specialized in PHP, Laravel, Vue.js, and TypeScript</p>
