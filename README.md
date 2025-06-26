@@ -68,17 +68,11 @@
 ---
 
 ### 💡 My Creations
-🔹 HRBee HRM — Multi-Tenant HR Management System
-    A SaaS-based HRM platform supporting multiple clients with tenant isolation and a modular architecture across 4 systems (hrm-tenant, hrm-central-admin, hrbee-hrm, hrbee).
-
-    ✨ Key Features: Attendance tracking with reports, leave requests, payroll, calendar with public holidays, CI/CD pipeline, multilingual support (English & Bangla), charts, and role-based access control.
-    
-    🏗 Architecture: Built with a tenant-aware Laravel API backend and a Vite-powered Vue 3 frontend, optimized for scalability, modularity, and real-time data handling with Redis.
-
-🔹 Muhuri — Multi-Tenant SaaS Sales & Accounting System
-
-    ✨ Key Features: Sales & purchase tracking, ledger-based accounting, Bkash payment gateway, SMS notifications (BulkSMSBD), multilingual support, Horizon queue monitoring, and role-based access control.
-    🏗 Architecture: Built as a scalable, modular SaaS suite using muhuri-tenant, muhuri-central-admin, and muhuri-web, with Redis and Horizon for real-time performance and tenant isolation.
+🔹 HRBee HRM — Multi-Tenant Saas Based HR System
+  <ul> 
+    <li>Key Features: Attendance tracking, leave requests, payroll, holiday calendar, RBAC, charts, multilingual (EN/BN), CI/CD.</li>
+    <li>Architecture: Modular multi-tenant system (hrm-tenant, hrm-central-admin, hrbee-hrm, hrbee) using Laravel, Vue 3 (Vite), Redis.</li>
+  <ul/>
 ---
 
 > 💡 "Every great developer was once a beginner who kept going."
