@@ -54,18 +54,17 @@ I’m Kajal Bormon, a passionate Full Stack Developer with a strong focus on **b
 ### 📫 Connect with Me
 
 <p align="">
-  <a href="https://www.linkedin.com/in/kajalbormon/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+ <a href="https://www.linkedin.com/in/kajalbormon/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
   <a href="https://www.facebook.com/kajalbormon123" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   
-   <a href="https://github.com/your-username/your-repo/raw/main/assets/Kajal_Bormon_Resume.pdf" target="_blank" >
-    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat" alt="Download Resume" />
+  <a href="https://github.com/your-username/your-repo/raw/main/assets/Kajal_Bormon_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF6F61?style=for-the-badge&logo=adobeacrobat&logoColor=white" alt="Download Resume" />
   </a>
-
 </p>
 
 ---
