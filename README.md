@@ -54,15 +54,20 @@ I’m Kajal Bormon, a passionate Full Stack Developer with a strong focus on **b
 ### 📫 Connect with Me
 
 <p align="">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/kajalbormon/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/your-facebook-username" target="_blank">
+  
+  <a href="https://www.facebook.com/kajalbormon123" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+  
   <a href="https://your-resume-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View-orange?style=for-the-badge&logo=read-the-docs" alt="Resume"/>
   </a>
+
+  [![Download Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat)](https://github.com/your-username/your-repo/raw/main/assets/Kajal_Bormon_Resume.pdf)
+
 </p>
 
 ---
