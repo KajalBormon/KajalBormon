@@ -113,7 +113,7 @@ I’m Kajal Bormon, a passionate Full Stack Developer with a strong focus on **b
 
 <p align="">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=KajalBormon&show_icons=true&theme=radical" /> -->
- <img src="https://github-readme-stats.vercel.app/api?username=KajalBormon&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KajalBormon&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 ---
