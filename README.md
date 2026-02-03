@@ -113,7 +113,7 @@ I’m Kajal Bormon, a passionate Full Stack Developer with a strong focus on **b
 
 <p align="">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=KajalBormon&show_icons=true&theme=radical" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=KajalBormon&show_icons=true&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KajalBormon&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Kajal Bormon GitHub Stats" />
 </p>
 
 ---
@@ -122,7 +122,7 @@ I’m Kajal Bormon, a passionate Full Stack Developer with a strong focus on **b
 
 <p align="">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalBormon&layout=compact&theme=radical" /> -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalBormon&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KajalBormon&layout=compact&theme=radical&hide_border=false" />
 </p>
 
 ---
